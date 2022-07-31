@@ -13,3 +13,5 @@ git push -u origin master
 git pull
 git checkout
 git push origin
+
+-> segue o passo a passo dos meus comandos da primeira atividade de versionamento :)
